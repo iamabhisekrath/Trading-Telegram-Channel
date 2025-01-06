@@ -64,7 +64,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Join Our Exclusive Trading Telegram Group</h1>
+        <h1>Join Our Exclusive Trading Telegram Channel</h1>
         <p class="yellow">প্রতিদিন আমি আমার টেলিগ্রাম চ্যানেলের সকল মেম্বারদেরকে নিয়ে লাইভ ক্লাস এবং লাইভ মার্কেট এনালাইসিস করাই।</p>
         <p class="green">শুধু তাই নয়  ৯০% সিউরশর্ট সিগনাল ও প্রদান করি।</p>
         <p class="blue">সম্পূর্ন ফ্রী ক্লাস করানো হয় কোনো প্রকার চার্জ নেওয়া হয়না।</p>
