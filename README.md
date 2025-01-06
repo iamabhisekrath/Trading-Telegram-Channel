@@ -10,7 +10,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background: url('https://source.unsplash.com/1600x900/?trading,stocks') no-repeat center center fixed;
+            background: url('market-share-competitor-excellent-growing-with-stocks.jpg') no-repeat center center fixed;
             background-size: cover;
             color: white;
             text-align: center;
